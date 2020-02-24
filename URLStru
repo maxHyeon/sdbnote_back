@@ -1,0 +1,13 @@
+1. work 관련
+    1) work 추가  
+    POST 
+    /work
+    2) work 변경
+    PUT(전체), PATCH (일부분)
+    /work/:id
+    3) work 제거
+    DELETE
+    /work/:id
+    4) work 조회
+    GET
+    /work/:id 
